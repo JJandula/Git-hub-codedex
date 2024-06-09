@@ -26,7 +26,7 @@ FizzFizzBuzz es una variante del clásico problema de programación "FizzBuzz". 
 2. Navega al directorio del proyecto:
 
     ```sh
-    cd fizzfizzbuzz
+    cd fizz_buzz.py
     ```
 
 ## Uso
