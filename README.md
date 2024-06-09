@@ -21,9 +21,15 @@ FizzFizzBuzz es una variante del clásico problema de programación "FizzBuzz". 
 
     ```sh
     git clone https://github.com/JJandula/Git-hub-codedex.git
+
+
+2. Busca el directorio:
+
+    ```sh
+    cd Git-hub-codedex/
     ```
 
-2. Busca el directorio y ejecuta el proyecto:
+3. Ejecuta el proyecto con Python:
 
     ```sh
     python3 fizz_buzz.py
@@ -31,4 +37,4 @@ FizzFizzBuzz es una variante del clásico problema de programación "FizzBuzz". 
 
 ## Uso
 
-Ejecuta el script `fizzfizzbuzz.py` para ver el resultado de FizzFizzBuzz para un número dado. Puedes modificar el valor de `n` en el código para probar diferentes entradas.
+Ejecuta el script `fizz_buzz.py` para ver el resultado de FizzFizzBuzz.
