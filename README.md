@@ -23,10 +23,10 @@ FizzFizzBuzz es una variante del clásico problema de programación "FizzBuzz". 
     git clone https://github.com/JJandula/Git-hub-codedex.git
     ```
 
-2. Navega al directorio del proyecto:
+2. Busca el directorio y ejecuta el proyecto:
 
     ```sh
-    cd fizz_buzz.py
+    python3 fizz_buzz.py
     ```
 
 ## Uso
