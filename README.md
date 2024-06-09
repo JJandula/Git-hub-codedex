@@ -20,7 +20,7 @@ FizzFizzBuzz es una variante del clásico problema de programación "FizzBuzz". 
 1. Clona este repositorio:
 
     ```sh
-    git clone https://github.com/tu_usuario/fizzfizzbuzz.git
+    git clone https://github.com/JJandula/Git-hub-codedex.git
     ```
 
 2. Navega al directorio del proyecto:
