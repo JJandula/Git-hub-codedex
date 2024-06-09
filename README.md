@@ -23,7 +23,7 @@ FizzFizzBuzz es una variante del clásico problema de programación "FizzBuzz". 
     git clone https://github.com/JJandula/Git-hub-codedex.git
 
 
-2. Busca el directorio:
+2. Accede al directorio:
 
     ```sh
     cd Git-hub-codedex/
